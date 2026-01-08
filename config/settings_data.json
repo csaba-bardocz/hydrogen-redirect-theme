@@ -1,0 +1,9 @@
+{
+  "current": {
+    "settings": {
+      "storefront_hostname": "islandimporter.com",
+      "custom_redirects": "",
+      "integrate_with_customer_accounts": true
+    }
+  }
+}
