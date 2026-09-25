@@ -32,6 +32,11 @@
         "type": "shopify://apps/rockit-discounts-sales/blocks/rockit-embed/f347a9bf-00bf-4eeb-9f4d-159bb9b1cead",
         "disabled": false,
         "settings": {}
+      },
+      "13433517325689821891": {
+        "type": "shopify://apps/rockit-discounts-sales/blocks/savings-embed/f347a9bf-00bf-4eeb-9f4d-159bb9b1cead",
+        "disabled": false,
+        "settings": {}
       }
     }
   }
