@@ -12,6 +12,9 @@
     "checkout": {
       "alternative_payment_method_banner": {
         "or": "⭐️⭐️⭐️⭐️⭐️ Rated 4.7/5 by 6,348 customers."
+      },
+      "order_summary": {
+        "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">{{ code }}</strong> cannot be combined with other discounts, including our Black Friday offer. Save it for a future purchase, subject to its terms."
       }
     }
   }
