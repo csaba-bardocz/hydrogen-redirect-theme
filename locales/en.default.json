@@ -15,7 +15,16 @@
       },
       "order_summary": {
         "higher_value_discount_applied": "<strong style=\"text-transform:uppercase\">{{ code }}</strong> cannot be combined with other discounts, including our Black Friday offer. Save it for a future purchase, subject to its terms.",
-        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">{{ code }}</strong> is not available for this order. Our Black Friday offer cannot be combined with other discounts. Save valid, unused codes for a future purchase, subject to their terms."
+        "customer_does_not_meet_discount_requirements_notice": "<strong style=\"text-transform:uppercase\">{{ code }}</strong> is not available for this order. Our Black Friday offer cannot be combined with other discounts. Save valid, unused codes for a future purchase, subject to their terms.",
+        "discount_already_applied": "A discount is already applied to this order. Other discounts cannot be combined with our Black Friday offer. Save your code for a future purchase, subject to its terms."
+      },
+      "general": {
+        "errors": {
+          "discount": {
+            "additional_requested_discount_code_discarded": "{{code}} is valid but cannot be applied to this order. Our Black Friday offer cannot be combined with other discounts. Save your code for a future purchase, subject to its terms.",
+            "additional_requested_discount_discarded": "Your discount is valid but cannot be applied to this order. Our Black Friday offer cannot be combined with other discounts. Save valid, unused codes for a future purchase, subject to their terms."
+          }
+        }
       }
     }
   }
